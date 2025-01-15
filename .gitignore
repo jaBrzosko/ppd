@@ -1,2 +1,6 @@
 data/*
 output/*
+.env
+dataset_*
+.idea
+.ipynb_checkpoints
